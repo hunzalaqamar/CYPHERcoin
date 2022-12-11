@@ -1,0 +1,9 @@
+Building Hunzalacoin
+
+See doc/readme-qt.rst for instructions on building Hunzalacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hunzalacoin.
+
+See doc/build-*.txt for instructions on building hunzalacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hunzalacoin.
